@@ -6,6 +6,9 @@
 <a target="_blank" href="https://www.linkedin.com/in/abhiram-das-5781b517/" rel="nofollow">
   <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
 </a>
+<a target="_blank" href="https://www.linkedin.com/in/abhiram-das-5781b517/" rel="nofollow">
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
 
 
 
