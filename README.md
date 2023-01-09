@@ -1,7 +1,7 @@
 ### Hi  👋
 
-<a href="https://www.linkedin.com/in/aakash--01629954/" rel="nofollow">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/abhiram-das-5781b517/" rel="nofollow">
+  <img src="https://img.shields.io/badge/abhiram-das-5781b517?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 
