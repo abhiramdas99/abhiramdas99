@@ -24,3 +24,5 @@ I'm currently working on AWS and DevOps profile as a IT Infra Head. Overall I ha
     </a>
     
 
+<p dir="auto">My Notes:</p>
+<p>Python</p>
