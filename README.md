@@ -25,4 +25,6 @@ I'm currently working on AWS and DevOps profile as a IT Infra Head. Overall I ha
     
 <hr>
 <p dir="auto">My Notes:</p>
+<div>Linux</div>
 <div style='padding:20px;font-weight:bold'>Python</div>
+
