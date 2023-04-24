@@ -32,10 +32,10 @@ I'm currently working on AWS and DevOps profile as a IT Infra Head. Overall I ha
 
 ### My Demo Projects
 <hr>
-Markup : <details>
-           <summary>## Manage local/onpremises infrastructure by vagrant and shell script ##</summary>
-           <p>Project Link - <a href='https://github.com/abhiramdas99/proj01-multi-tier-web-app'>proj01-multi-tier-web-app</a></p>
-         </details>
+<details>
+   ## <summary> Manage local/onpremises infrastructure by vagrant and shell script </summary> ##
+      <p>Project Link - <a href='https://github.com/abhiramdas99/proj01-multi-tier-web-app'>proj01-multi-tier-web-app</a></p>
+ </details>
 
   
 
