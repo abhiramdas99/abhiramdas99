@@ -35,9 +35,11 @@ I'm currently working on AWS and DevOps profile as a IT Infra Head. Overall I ha
 <details>
    ## <summary> Manage local/onpremises infrastructure by vagrant and shell script </summary> ##
       <p>Project Link - <a href='https://github.com/abhiramdas99/proj01-multi-tier-web-app'>proj01-multi-tier-web-app</a></p>
+</details>
+<details>
    ## <summary> Sample Code for captcha authentication </summary> ##
       <p>Project Link (simple Core java) - https://github.com/abhiramdas99/fullstack-java-google-recaptcha-form</p>
- </details>
+</details>
 
   
 
