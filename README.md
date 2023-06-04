@@ -15,14 +15,15 @@
 
 I'm currently working on AWS and DevOps profile as a IT Infra Head. Overall I have more than 14 years experinece in IT in different type of industries like hospitality ,manufacturing, export import and  educational institute. I have wide range of skillset in software development(python,java, php, html, bootstrap, css), RDMBS(Mysql, postgres, mssql) , manufaturing erp(Oracle Jd Enterpirese one, Inhouse developed erp), educational erp(inhuse developed erp) and also I migrate myself from onpremises culture to cloud culture ( aws, gcp , IAC( infrastructure as code ) and many automation tools) in last 5 years. 
 
-<p dir="auto">Languages and Tools:</p>
+<p dir="auto">Skills:</p>
 <a href="https://getbootstrap.com" rel="nofollow">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;">
     </a>
     <a href="https://git-scm.com/" rel="nofollow">
         <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;">
     </a>
-    
+![image](https://github.com/abhiramdas99/abhiramdas99/assets/62290469/57a839cc-414e-4636-9b57-e4449225dbc7)
+
 
 ### My Notes
 <hr>
