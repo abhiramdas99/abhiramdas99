@@ -16,6 +16,7 @@
 I'm currently working on AWS and DevOps profile as a IT Infra Head. Overall I have more than 14 years experinece in IT in different type of industries like hospitality ,manufacturing, export import and  educational institute. I have wide range of skillset in software development(python,java, php, html, bootstrap, css), RDMBS(Mysql, postgres, mssql) , manufaturing erp(Oracle Jd Enterpirese one, Inhouse developed erp), educational erp(inhuse developed erp) and also I migrate myself from onpremises culture to cloud culture ( aws, gcp , IAC( infrastructure as code ) and many automation tools) in last 5 years. 
 
 ###  Skills:
+<hr>
 <a href="https://getbootstrap.com" rel="nofollow">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="100" height="100" style="max-width: 100%; padding :10px">
     </a>
@@ -25,13 +26,7 @@ I'm currently working on AWS and DevOps profile as a IT Infra Head. Overall I ha
         <img src="https://github.com/abhiramdas99/abhiramdas99/assets/62290469/57a839cc-414e-4636-9b57-e4449225dbc7" alt="Shell Script" width="100" height="100" style="max-width: 100%;">
 
 
-### My Notes
-<hr>
-<div>Linux</div>
-<div style='padding:20px;font-weight:bold'>Python</div>
-
-
-### My Demo Projects
+### Projects / Repository / Notes
 <hr>
 <details>
    ## <summary> Manage local/onpremises infrastructure by vagrant and shell script </summary> ##
